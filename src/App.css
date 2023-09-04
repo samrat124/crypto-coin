@@ -1,6 +1,7 @@
-.App {
-  text-align: center;
-}
+ .main-box{
+  display:flex;
+  gap: 50px;
+ }
 
 .App-logo {
   height: 40vmin;
